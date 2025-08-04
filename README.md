@@ -1,4 +1,4 @@
-Basic Reconnaissance : Using Nmap and Wireshark .
+Basic Network Reconnaissance : Using Nmap and Wireshark understanding network service exposure.
 
 Some commands to scan the ip for ports which are open and close : 
 
